@@ -1,14 +1,14 @@
 # Site
 title:              LabCidades - Uninove
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Laboratório de Políticas Públicas e Cidades Inteligentes da UNINOVE'
+description:        "O LabCidades é o Laboratório de Políticas Públicas e Cidades Inteligentes da UNINOVE"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo1_labcidades.png'
 background:         'assets/img/sede_uninove_memorial.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
-url:                https://labcidades.github.io/
+url:                https://labcidades.github.io #http://127.0.0.1:4000
 
 # Jekyll
 permalink:          /:title/
