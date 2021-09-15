@@ -7,7 +7,7 @@ words_per_minute:   200
 logo:               'assets/img/logo1_labcidades.png'
 background:         'assets/img/sede_uninove_memorial.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+locale:             pt_BR
 url:                https://labcidades.github.io/
 
 # Jekyll
