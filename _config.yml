@@ -5,7 +5,7 @@ description:        "O LabCidades é o Laboratório de Políticas Públicas e Ci
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo1_labcidades.png'
-background:         'assets/img/sede_uninove_memorial.jpg'
+background:         'assets/img/blue_white_bckgrnd.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
 url:                https://labcidades.github.io #http://127.0.0.1:4000
