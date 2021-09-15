@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Papers e Posts
+title: Publicações
 excerpt: "Produções do LabCidades"
 comments: false
 ---
