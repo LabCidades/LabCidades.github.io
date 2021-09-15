@@ -25,6 +25,7 @@ comments: false
 ## LabCidades UNINOVE - Equipe:
 * Pesquisador Responsável: [Jose Storopoli](https://github.com/storopoli)
 * Pesquisador Associado: [Alessandra Pellini](https://github.com/acgpellini)
+* Pesquisador Assistente: [André Santos](https://github.com/andrelmfsantos)
 * Pesquisador Assistente: Lorenzo Gottardi
 * Pesquisador Assistente: [Henrique Pougy](https://github.com/h-pgy)
 * Pesquisador Assistente: Homero Garavello
