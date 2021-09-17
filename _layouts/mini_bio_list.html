@@ -23,7 +23,6 @@ layout: compress
                 </div>
                 <div class="post-list">
                     {% for mini_bio in site.mini_bios %} 
-                        {% if post.is_mini_bio == true %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ mini_bio.url }}">{{ mini_bio.title }}</a>
@@ -31,7 +30,6 @@ layout: compress
                             <a href="{{ site.url }}{{ mini_bio.url }}" class="btn zoombtn">Saiba Mais</a>
                         </li>
                     </ul>
-                        {% endif %}
                     {% endfor %}
                 </div>
             </div>

@@ -8,7 +8,6 @@ tag:
 - post
 - video
 comments: true
-is_mini_bio: true
 ---
 
 
