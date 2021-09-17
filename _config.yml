@@ -8,8 +8,8 @@ logo:               'assets/img/logo1_labcidades.png'
 background:         'assets/img/blue_white_bckgrnd.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
-url:               http://127.0.0.1:4000 
-#url:                https://labcidades.github.io
+#url:               http://127.0.0.1:4000 
+url:                https://labcidades.github.io
 
 #collections
 collections:
