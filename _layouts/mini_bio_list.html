@@ -22,13 +22,13 @@ layout: compress
                     </a>
                 </div>
                 <div class="post-list">
-                    {% for post in site.posts %} 
+                    {% for mini_bio in site.mini_bios %} 
                         {% if post.is_mini_bio == true %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                            <p>{{ post.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Saiba Mais</a>
+                            <a class="zoombtn" href="{{ site.url }}{{ mini_bio.url }}">{{ mini_bio.title }}</a>
+                            <p>{{ mini_bio.excerpt }}</p>
+                            <a href="{{ site.url }}{{ mini_bio.url }}" class="btn zoombtn">Saiba Mais</a>
                         </li>
                     </ul>
                         {% endif %}
