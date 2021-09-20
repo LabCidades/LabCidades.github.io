@@ -8,14 +8,8 @@ tag:
 - post
 - video
 comments: true
+photo_source: "/assets/img/mini_bio_storopoli.jpeg"
 ---
-
-
-<figure>
-	<img src="/assets/img/mini_bio_storopoli.jpeg">
-	<figcaption>Prof. Dr. José Storopoli</figcaption>
-</figure>
-
 # José Storopoli
 
 Associate Professor and Researcher of the Department of Computer Science at Universidade Nove de Julho - UNINOVE located in São Paulo - Brazil.
