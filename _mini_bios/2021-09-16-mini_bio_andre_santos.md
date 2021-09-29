@@ -4,10 +4,8 @@ title:  "André L.M.F. Santos"
 date:   2019-09-20
 excerpt: "Pesquisador Associado."
 tag:
-- sample
-- post
-- video
-comments: true
+- pesquisador
+comments: False
 photo_source: "/assets/img/andre_mini_bio.jpeg"
 ---
 # André L.M.F. Santos

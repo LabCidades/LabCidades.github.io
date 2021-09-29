@@ -4,10 +4,8 @@ title:  "Nádia Lebedev"
 date:   2019-09-20
 excerpt: "Pesquisadora Associada."
 tag:
-- sample
-- post
-- video
-comments: true
+- pesquisador
+comments: False
 photo_source: "/assets/img/nadia_mini_bio.jfif"
 ---
 # Nádia Lebedev

@@ -4,10 +4,8 @@ title:  "José Storopoli"
 date:   2019-09-16
 excerpt: "Pesquisador Responsável do LabCidades."
 tag:
-- sample
-- post
-- video
-comments: true
+- pesquisador
+comments: False
 photo_source: "/assets/img/mini_bio_storopoli.jpeg"
 ---
 # José Storopoli

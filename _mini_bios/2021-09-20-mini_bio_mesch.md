@@ -4,10 +4,8 @@ title:  "Gustavo S. Mesch"
 date:   2019-09-20
 excerpt: "Pesquisador Associado."
 tag:
-- sample
-- post
-- video
-comments: true
+- pesquisador
+comments: False
 photo_source: "/assets/img/mesch_mini_bio.jpeg"
 ---
 

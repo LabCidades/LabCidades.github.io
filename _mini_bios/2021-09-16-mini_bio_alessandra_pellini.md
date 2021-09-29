@@ -4,10 +4,8 @@ title:  "Alessandra Pellini"
 date:   2019-09-20
 excerpt: "Pesquisadora Associada."
 tag:
-- sample
-- post
-- video
-comments: true
+- pesquisador
+comments: False
 photo_source: "/assets/img/alessandra_mini_bio.jpeg"
 ---
 # Alessandra Cristina Guedes Pellini

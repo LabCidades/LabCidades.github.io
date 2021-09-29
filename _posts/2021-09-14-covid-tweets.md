@@ -10,7 +10,7 @@ tag:
 - Twitter
 - Classificação
 - Machine Learning
-comments: true
+comments: false
 ---
 
 # Classificador de Sintomas do COVID-19
