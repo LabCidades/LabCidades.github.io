@@ -1,7 +1,6 @@
 ---
 layout: mini_bio
 title:  "José Storopoli"
-date:   2019-09-16
 excerpt: "Pesquisador Responsável do LabCidades."
 tag:
 - pesquisador

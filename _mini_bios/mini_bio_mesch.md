@@ -1,7 +1,6 @@
 ---
 layout: mini_bio
 title:  "Gustavo S. Mesch"
-date:   2019-09-20
 excerpt: "Pesquisador Associado."
 tag:
 - pesquisador

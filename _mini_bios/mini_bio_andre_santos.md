@@ -1,7 +1,6 @@
 ---
 layout: mini_bio
 title:  "André L.M.F. Santos"
-date:   2019-09-20
 excerpt: "Pesquisador Associado."
 tag:
 - pesquisador

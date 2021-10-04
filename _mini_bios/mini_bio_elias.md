@@ -1,7 +1,6 @@
 ---
 layout: mini_bio
 title:  "Elias Souza Noda"
-date:   2019-09-30
 excerpt: "Estudande de Iniciação Científica."
 tag:
 - IC

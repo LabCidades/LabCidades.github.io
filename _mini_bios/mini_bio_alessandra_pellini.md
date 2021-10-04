@@ -1,7 +1,6 @@
 ---
 layout: mini_bio
 title:  "Alessandra Pellini"
-date:   2019-09-20
 excerpt: "Pesquisadora Associada."
 tag:
 - pesquisador
