@@ -1,7 +1,7 @@
 ---
 layout: mini_bio
 title:  "Ricardo Rosal"
-excerpt: "Pesquisador Assitente"
+excerpt: "Pesquisador Assistente"
 tag:
 - pesquisador_assistente
 comments: False
