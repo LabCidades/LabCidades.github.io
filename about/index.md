@@ -9,8 +9,8 @@ comments: false
 <center><a href="https://github.com/LabCidades"><b>LabCidades</b></a> é o Laboratório de Cidades Inteligentes e Gestão do Conhecimento da Universidade Nove de Julho - UNINOVE.</center>
 
 ## O LabCidades possui como objetivo elaborar pesquisas para apoio à:
-* Formulação de políticas públicas
-* Tomada de decisão
+* formulação de políticas públicas
+* tomada de decisão
 
 ## As principais técnicas são:
 * modelos estatísticos Bayesianos
@@ -18,15 +18,20 @@ comments: false
 * sistemas baseados em evidências
 
 ## Contexto de atuação:
-* Big Data
+* *Big Data*
 * ferramentas open source
-* Open science: dados e código abertos para replicabilidade e transparência
+* *Open science*: dados e código abertos para replicabilidade e transparência
 
 ## LabCidades UNINOVE - Equipe:
 * Pesquisador Responsável: [Jose Storopoli](https://github.com/storopoli)
-* Pesquisador Associado: [Alessandra Pellini](https://github.com/acgpellini)
+* Pesquisador Associado: Gustavo S Mesch
+* Pesquisadora Associada: [Alessandra Pellini](https://github.com/acgpellini)
+* Pesquisador Associado: Adriano Miranda
+* Pesquisador Associado: Leonardo Vils
+* Pesquisadora Associada: Nádia Lebedev
 * Pesquisador Assistente: [André Santos](https://github.com/andrelmfsantos)
 * Pesquisador Assistente: Lorenzo Gottardi
+* Pesquisador Assistente: [Ricardo Rosal](https://github.com/RosalRicardo)
 * Pesquisador Assistente: [Henrique Pougy](https://github.com/h-pgy)
 * Pesquisador Assistente: Homero Garavello
 * Alunos de Iniciação Científica:
