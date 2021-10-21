@@ -1,7 +1,7 @@
 ---
 layout: mini_bio
 title:  "André L.M.F. Santos"
-excerpt: "Pesquisador Associado"
+excerpt: "Pesquisador Assistente"
 posicao: associado
 tag:
 - pesquisador
