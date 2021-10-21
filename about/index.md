@@ -23,21 +23,9 @@ comments: false
 * *Open science*: dados e código abertos para replicabilidade e transparência
 
 ## LabCidades UNINOVE - Equipe:
-* Pesquisador Responsável: [Jose Storopoli](https://github.com/storopoli)
-* Pesquisador Associado: Gustavo S Mesch
-* Pesquisadora Associada: [Alessandra Pellini](https://github.com/acgpellini)
-* Pesquisador Associado: Adriano Miranda
-* Pesquisador Associado: Leonardo Vils
-* Pesquisadora Associada: Nádia Lebedev
-* Pesquisador Assistente: [André Santos](https://github.com/andrelmfsantos)
-* Pesquisador Assistente: Lorenzo Gottardi
-* Pesquisador Assistente: [Ricardo Rosal](https://github.com/RosalRicardo)
-* Pesquisador Assistente: [Henrique Pougy](https://github.com/h-pgy)
-* Pesquisador Assistente: Homero Garavello
-* Alunos de Iniciação Científica:
-    * [João Vinícius Vieira Nóia](https://github.com/vinivieiran)
-    * [Elias Noda](https://github.com/Elias-Noda)
-    * [Paula Fraga](https://github.com/Paula-Fraga)
-    * [Camila Brichta](https://github.com/camibrichta)
-    * [Leandro dos Santos](https://github.com/leandrors91)
-    * [Junior De Sousa Silva](https://github.com/juniorghostinthewires)
+
+{% for membro in site.mini_bios %}
+
+  * {{ membro.excerpt }} - {{ membro.title }}
+  
+{% endfor %}
