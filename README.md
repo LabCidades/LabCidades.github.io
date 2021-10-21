@@ -15,3 +15,6 @@
 * Big Data
 * ferramentas open source
 * Open science: dados e código abertos para replicabilidade e transparência
+
+## Pesquisador Responsável::
+*  [Jose Storopoli](https://github.com/storopoli)
