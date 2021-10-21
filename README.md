@@ -12,9 +12,9 @@
 * sistemas baseados em evidências
 
 ## Contexto de atuação:
-* Big Data
-* ferramentas open source
-* Open science: dados e código abertos para replicabilidade e transparência
+* *Big Data*
+* ferramentas *Open Source*
+* *Open science*: dados e código abertos para replicabilidade e transparência
 
-## Pesquisador Responsável::
+## Pesquisador Responsável
 *  [Jose Storopoli](https://github.com/storopoli)
