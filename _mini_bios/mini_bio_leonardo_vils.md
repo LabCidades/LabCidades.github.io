@@ -2,6 +2,7 @@
 layout: mini_bio
 title:  "Leonardo Vils"
 excerpt: "Pesquisador Associado"
+posicao: associado
 tag:
 - pesquisador
 comments: False

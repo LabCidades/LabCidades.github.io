@@ -1,7 +1,8 @@
 ---
 layout: mini_bio
 title:  "Gustavo S. Mesch"
-excerpt: "Pesquisador Associado."
+excerpt: "Pesquisador Associado"
+posicao: associado
 tag:
 - pesquisador
 comments: False

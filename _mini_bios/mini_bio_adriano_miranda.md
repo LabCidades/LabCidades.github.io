@@ -2,6 +2,7 @@
 layout: mini_bio
 title:  "Adriano Miranda"
 excerpt: "Pesquisador Associado"
+posicao: associado
 tag:
 - pesquisador
 comments: False

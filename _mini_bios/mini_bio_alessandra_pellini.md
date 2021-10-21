@@ -1,7 +1,8 @@
 ---
 layout: mini_bio
 title:  "Alessandra Pellini"
-excerpt: "Pesquisadora Associada."
+excerpt: "Pesquisadora Associada"
+posicao: associado
 tag:
 - pesquisador
 comments: False

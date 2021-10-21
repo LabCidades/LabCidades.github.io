@@ -1,7 +1,8 @@
 ---
 layout: mini_bio
 title:  "Elias Souza Noda"
-excerpt: "Estudande de Iniciação Científica."
+excerpt: "Estudande de Iniciação Científica"
+posicao: ic
 tag:
 - IC
 comments: False

@@ -2,6 +2,7 @@
 layout: mini_bio
 title:  "Rosemary Roggero"
 excerpt: "Pesquisador Associado"
+posicao: associado
 tag:
 - pesquisador
 comments: False

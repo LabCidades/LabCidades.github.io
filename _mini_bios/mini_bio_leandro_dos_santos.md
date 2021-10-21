@@ -2,6 +2,7 @@
 layout: mini_bio
 title:  "Leandro dos Santos"
 excerpt: "Estudante de Iniciação Científica"
+posicao: ic
 tag:
 - IC
 comments: False

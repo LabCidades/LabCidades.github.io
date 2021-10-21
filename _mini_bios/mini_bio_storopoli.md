@@ -1,7 +1,8 @@
 ---
 layout: mini_bio
 title:  "José Storopoli"
-excerpt: "Pesquisador Responsável do LabCidades."
+excerpt: "Pesquisador Responsável do LabCidades"
+posicao: responsavel
 tag:
 - pesquisador
 comments: False
