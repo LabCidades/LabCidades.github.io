@@ -24,8 +24,34 @@ comments: false
 
 ## LabCidades UNINOVE - Equipe:
 
-{% for membro in site.mini_bios %}
+### Pesquisador Responsável
 
-  * {{ membro.excerpt }} - {{ membro.title }}
-  
+{% for membro in site.mini_bios %}
+    {% if membro.posicao == "responsavel" %}
+* {{ membro.title }}
+    {% endif %}
+{% endfor %}
+
+### Pesquisadores Associados
+
+{% for membro in site.mini_bios %}
+    {% if membro.posicao == "associado" %}
+* {{ membro.title }}
+    {% endif %}
+{% endfor %}
+
+### Pesquisadores Assistentes
+
+{% for membro in site.mini_bios %}
+    {% if membro.posicao == "assistente" %}
+* {{ membro.title }}
+    {% endif %}
+{% endfor %}
+
+### Alunos de Iniciação Científica
+
+{% for membro in site.mini_bios %}
+    {% if membro.posicao == "ic" %}
+* {{ membro.title }}
+    {% endif %}
 {% endfor %}
