@@ -10,4 +10,4 @@ photo_source: "/assets/img/andre_mini_bio.jpeg"
 ---
 # André L.M.F. Santos
 
- Matemático pela PUC-SP e mestre em Engenharia de Produção pela UNINOVE-SP. Profissional com mais de 10 anos de experiência em Business Intelligence, membro do consórcio CoDatMo e fundador da plataforma Métodos Exatos.
+Doutorando em Administração (UNINOVE). Mestre em Engenharia de Produção (UNINOVE), licenciatura em matemática (PUC-SP) e licenciatura em ciências (Faculdades Teresa Martin). Profissional com mais de 10 anos de experiência em Business Intelligence, membro do consórcio CoDatMo e fundador da plataforma Métodos Exatos.

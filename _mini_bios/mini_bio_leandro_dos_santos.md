@@ -10,4 +10,4 @@ photo_source: "/assets/img/leandro_dos_santos_mini_bio.jpg"
 ---
 # Leandro dos Santos
 
- Leandro dos Santos, cursando ciência da computação, aluno de iniciação científica.
+Cursando Ciência da Computação (UNINOVE) e aluno de iniciação científica.
