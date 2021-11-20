@@ -11,4 +11,4 @@ photo_source: "/assets/img/mesch_mini_bio.jpeg"
 
 # Gustavo S. Mesch
 
-PhD em Sociologia na Ohio State University (EUA), 1993. Professor de emérito Sociologia Digital na Universidade de Haifa (Israel). Foi reitor da Universidade de Haifa de 2016 a 2021. É pesquisador com interesse nas áreas de tecnologia e sociedade, os efeitos sociais das novas mídias, a cultura da internet e as redes socais online e offline.
+Enfermeiro pela Haim Schiba’s School of Nursing. Mestre em Sociologia pela Universidade de Haifa e doutor em Sociologia pela Universidade de Chicago. Pesquisador Sênior da Universidade Haifa, onde foi reitor (2017-2021). Seus interesses de pesquisa são tecnologia e sociedade, efeitos sociais das novas mídias, cultura jovem da Internet, redes sociais on-line e off-line. Atualmente, ele está estudando padrões de fraudes cibernéticas, roubo de identidade e uso de medidas preventivas, um estudo financiado pelo Ministério da Ciência e Tecnologia de Israel.

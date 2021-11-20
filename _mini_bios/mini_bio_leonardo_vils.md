@@ -10,4 +10,4 @@ photo_source: "/assets/img/leonardo_vils_mini_bio.jpg"
 ---
 # Leonardo Vils
 
- Economista, mestre e doutor em Administração. Professor dos programas de Pós Graduação em Cidades Inteligentes e Sustentáveis e Pós Graduação em Gestão de Projetos da Universidade Nove de Julho
+Economista, Mestre e Doutor em Administração (UNINOVE). Professor dos PPGs em Cidades Inteligentes e Sustentáveis, e em Gestão de Projetos (UNINOVE). Atua há 25 anos em empresas nacionais e multinacionais B2B, começando pela área de Controladoria, passando por Gerencial Regional América do Sul (Depto Couros - BASF) e participa de um Startup, desenvolvimento e consolidação de empresa nacional de Química Têxtil. É pesquisador em Psicologia Ambiental e Território Construído; e Economia Comportamental e Inovação em Projetos.
